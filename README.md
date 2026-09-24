@@ -98,7 +98,7 @@ Deployed the trained Random Forest model into a **live Gradio web app** that all
 ### Option 2 — Local
 1. Clone the repo
 ```bash
-git clone https://github.com/nike750/retail-sales-ml.git
+git clone https://https://github.com/nike750/End_to_End_Machine_Learning-And-Web_GUI_Pipeline
 cd retail-sales-ml
 ```
 
